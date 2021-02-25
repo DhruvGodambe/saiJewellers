@@ -1,0 +1,30 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    margin: 0;
+    text-align: center;
+    box-shadow: 1px 1px 10px grey;
+}
+
+h1 {
+    margin: 0;
+}
+
+.tab-list-container {
+    padding: 20px 0;
+}
+
+.tab-list {
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.tab {
+    width: 33%;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
